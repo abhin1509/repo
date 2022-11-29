@@ -8,11 +8,11 @@ Folder / template description
 
 ## Tags
 
-![](https://img.shields.io/badge/-Tag1-informational)
-![](https://img.shields.io/badge/-Tag2-informational)
-![](https://img.shields.io/badge/-Tag3-informational)
-![](https://img.shields.io/badge/-Tag4-informational)
-![](https://img.shields.io/badge/-Tag5-informational)
+![](https://img.shields.io/badge/-Tag(Max8)-informational)
+![](https://img.shields.io/badge/-Tag(Max8)-informational)
+![](https://img.shields.io/badge/-Tag(Max8)-informational)
+![](https://img.shields.io/badge/-Tag(Max8)-informational)
+![](https://img.shields.io/badge/-Tag(Max8)-informational)
 
 ## Dependencies
 
